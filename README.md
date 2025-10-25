@@ -145,13 +145,17 @@ It mirrors the workflow of a **Business Intelligence Analyst**, bridging data an
 
 ## 🖼️ Dashboard Preview 
 - Page 1: Executive Summary 
-![alt text](image.png) 
+<img width="1015" height="572" alt="image" src="https://github.com/user-attachments/assets/a569cd76-06e8-47a9-9e59-5338e4acb559" />
+
 - Page 2: Category & Product Analysis
-![alt text](image-1.png) 
-- Page 3: Sales & Profit Trends  
-![alt text](image-2.png)
-- Page 4: Customer & Regional Performance  
-![alt text](image-3.png)
+<img width="1018" height="570" alt="image" src="https://github.com/user-attachments/assets/90b868ca-78d4-45aa-9f2d-c1da795f1733" />
+
+- Page 3: Sales & Profit Trends
+<img width="1020" height="574" alt="image" src="https://github.com/user-attachments/assets/04a3b236-509e-4828-a504-13b7c655db46" />
+ 
+- Page 4: Customer & Regional Performance
+<img width="1021" height="575" alt="image" src="https://github.com/user-attachments/assets/12520e17-3fdc-49ed-90e9-70345d26972f" />
+
 ---
 
 ## 👩‍💼 Author
